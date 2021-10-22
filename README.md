@@ -694,3 +694,5 @@ alter table employees
 alter table salary
 	add column currency varchar (7)
 ```
+Результат:
+![Снимок](https://user-images.githubusercontent.com/88891623/138417357-8b6debc8-1de0-4a74-86bf-2d0f074215ef.PNG)
